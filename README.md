@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi I'm Siddesh Patil<br>💻 I'm a IT student<br>🔭 I’m currently working on projects<br>🌱 I’m currently learning Python and Web Development<br>📫 How to reach me patilsiddeshb16@gmail.com<br>
+# 👋 Hi I'm Siddesh Patil:
+💻 I'm a IT student<br>🔭 I’m currently working on projects<br>🌱 I’m currently learning Python and Web Development<br>📫reach me at patilsiddeshb16@gmail.com<br>
 
 
 ## 🌐 Socials:
